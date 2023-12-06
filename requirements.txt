@@ -1,0 +1,5 @@
+python-dotenv
+sqlalchemy
+sqlalchemy-utils
+pyodbc
+pydantic

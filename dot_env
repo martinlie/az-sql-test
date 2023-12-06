@@ -1,0 +1,1 @@
+AZURE_SQL_CONNECTIONSTRING=Driver={ODBC Driver 17 for SQL Server};Server=tcp:<db name>.database.windows.net,1433;Database=<db name>;Uid=<uid>;Pwd=<pwd>;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;
